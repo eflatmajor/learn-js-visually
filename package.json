@@ -1,4 +1,44 @@
 {
+  "name": "learn-js-visually",
+  "description": "An attempt at a 'Learn JavaScript' guide (and a worthy javascript.info competitor) which teaches JavaScript in an entirely new and different way. Here, the things we learn and build have a focus on visuals, interactivity and simulation. Start the course as a complete JS beginner and build your way up to building clones of popular video games",
+  "keywords": [
+    "js",
+    "javascript",
+    "p5",
+    "p5.js",
+    "canvas",
+    "beginner",
+    "tutorial",
+    "course",
+    "guide",
+    "learn",
+    "simulation",
+    "interactivity",
+    "visuals",
+    "gamedev",
+    "game-dev",
+    "game-development",
+    "maths",
+    "mathematics",
+    "trigonometry",
+    "linear-algebra",
+    "generative-art",
+    "particle-systems",
+    "fractals",
+    "cellular-automata",
+    "boids",
+    "flocking"
+  ],
+  "author": {
+    "name": "Eflat Major",
+    "url": "https://github.com/eflatmajor",
+    "email": "bachbeethovenundbrahms+gh-ljv@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eflatmajor/learn-js-visually"
+  },
+  "version": "0.0.1",
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
