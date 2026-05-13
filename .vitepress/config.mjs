@@ -1,10 +1,10 @@
 import { defineConfig } from "vitepress";
 
-const BASE_URL = process.env.NODE_ENV === "production" ? "/learn-js-visually/" : "/";
+const BASE_URL = "/";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/learn-js-visually/", // BASE_URL,
+  base: BASE_URL,
   title: "Learn JavaScript, Visually",
   description: "A new approach to learning JavaScript.",
   themeConfig: {
